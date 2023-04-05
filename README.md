@@ -67,4 +67,4 @@ The application configurations are placed in application.yml (Under src/main/res
 The tax prices, exempt vehicles, and holidays in a year are configured through the configuration file.
 
 #  Postman Request
-![Postman API Call](https://github.com/vinothganesan/congestion-tax-calculator/blob/main/images/Postman.JPG)
+![Postman API Call]([https://github.com/vinothganesan/congestion-tax-calculator/blob/main/images/Postman.JPG](https://github.com/vinothganesan/congestion-tax-calculator/blob/main/images/Postman.jpg))
